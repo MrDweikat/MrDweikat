@@ -20,7 +20,7 @@
 [<img align="left" alt="# | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]instagram[#]
 [<img align="left" alt="# | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]instagram[#]
 [<img align="left" alt="# | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]instagram[#]
-[<img align="left" alt="Public Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/icu_adam/]
+[<img align="left" alt="Public Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]https://www.instagram.com/icu_adam/[Instagram]
 
 <br />
 
