@@ -1,7 +1,6 @@
 ### Hi there, I'm Adham - aka [IMPERIUM][discord-server] 👋
 
-[![discord-server](https://media.discordapp.net/attachments/931046023307087917/937080977753264218/LogotypeLightblue.png)](https://discord.gg/zP7eeYxRHY)
-[![spotify-playlist](https://media.discordapp.net/attachments/893462064847265824/937079975905988648/spotify-banner.png)](https://open.spotify.com/playlist/449UBn31B1RxTwoh8fyMe9?si=e943cf149d6c4847)
+[![discord-server](https://media.discordapp.net/attachments/931046023307087917/937082161595580486/LogotypeLightblue.png)](https://discord.gg/zP7eeYxRHY)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -13,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/playlist/449UBn31B1RxTwoh8fyMe9?si=e943cf149d6c4847" alt="IMPERIUM Playlist" width="350" />](#)
+[<img src="https://media.discordapp.net/attachments/931046023307087917/937082635241537636/LogotypeTurqouise.png" alt="IMPERIUM Playlist" width="350" />](https://open.spotify.com/playlist/449UBn31B1RxTwoh8fyMe9?si=e943cf149d6c4847)
 
 ### Connect with me:
 
