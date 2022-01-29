@@ -1,8 +1,8 @@
 ### Hi there, I'm Adham - aka [IMPERIUM][discord-server] 👋
 
-[![discord-server](https://media.discordapp.net/attachments/931046023307087917/937082161595580486/LogotypeLightblue.png)](https://discord.gg/zP7eeYxRHY)
+[![discord-server](https://media.discordapp.net/attachments/931046023307087917/937080977753264218/LogotypeLightblue.png)](https://discord.gg/zP7eeYxRHY)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Developer, and Gamer!!
 
 - 🔭 I am a computer science major, and this is my second year!
 - 🌱 I’m currently learning everything 🤣
