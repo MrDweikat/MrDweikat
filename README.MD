@@ -14,11 +14,13 @@
 
 [<img src="https://media.discordapp.net/attachments/931046023307087917/937082635241537636/LogotypeTurqouise.png" alt="IMPERIUM Playlist"/>](https://open.spotify.com/playlist/449UBn31B1RxTwoh8fyMe9?si=e943cf149d6c4847)
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="#.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](#)
 [<img align="left" alt="# | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#)
-[![Instagram]<img align="left" alt="Public Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/icu_adam/)
+[<img align="left" alt="Public Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/icu_adam/)
 
 <br />
 
