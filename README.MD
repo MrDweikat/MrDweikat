@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Setup a full fledged GitHub profile!
 - ⚡ Fun fact: I enjoy survival games more than any other genre in the world.
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [<img src="https://media.discordapp.net/attachments/931046023307087917/937082635241537636/LogotypeTurqouise.png" alt="IMPERIUM Playlist"/>](https://open.spotify.com/playlist/449UBn31B1RxTwoh8fyMe9?si=e943cf149d6c4847)
 
