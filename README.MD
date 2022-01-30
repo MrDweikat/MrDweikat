@@ -4,13 +4,18 @@
 
 ## I'm a Student, Developer, and Gamer!!
 
-- 🔭 I am a computer science major, and this is my second year!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to expand my knowledge into the development world and I would like to share my process in doing so.
-- 🥅 2022 Goals: Setup a full fledged GitHub profile!
-- ⚡ Fun fact: I enjoy survival games more than any other genre in the world.
+- ✅ I am a computer science major, and this is my second year!
+- ✔️ I’m currently learning everything 🤣
+- ✅ I’m looking to expand my knowledge into the development world and I would like to share my process in doing so.
+- ✔️ 2022 Goals: Setup a full fledged GitHub profile!
+- ✅ Fun fact: I enjoy survival games more than any other genre in the world.
 
-## Spotify Playing 🎧
+<br />
+
+### Future Plans 
+
+
+### Spotify Playing 🎧
 
 [<img src="https://media.discordapp.net/attachments/931046023307087917/937082635241537636/LogotypeTurqouise.png" alt="IMPERIUM Playlist"/>](https://open.spotify.com/playlist/449UBn31B1RxTwoh8fyMe9?si=e943cf149d6c4847)
 
