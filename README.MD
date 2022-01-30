@@ -18,7 +18,7 @@
 <br /><br />
 - ⦿ Setup this README.MD file to make a professional GITHUB account.
 - ⊙ Create a basic functional HTML website.
-- ⊙ Create a JAVA calculator.
+- ⊙ Create a JAVA calculator that can calculate basic functions (Addition, Subtraction, Multiplaction, Division)
 - ⊙ Learn CPP and Reverse Engineering.
 - ⊙ Learn WordPress and Website Hosting.
 
