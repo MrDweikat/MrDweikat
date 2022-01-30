@@ -1,4 +1,4 @@
-### Hi there, I'm Adham - aka [IMPERIUM][DiscordServer] 👋
+### Hi there, I'm Adham - aka [IMPERIUM] 👋
 
 [![DiscordServer](https://media.discordapp.net/attachments/931046023307087917/937080977753264218/LogotypeLightblue.png)](https://discord.gg/zP7eeYxRHY)
 
