@@ -16,6 +16,12 @@
 - ⊙ (Circle Not Full) == Plan not complete
 - ⦿ (Circle Full) == Plan Complete
 
+- ⦿ Setup this README.MD file to make a professional GITHUB account.
+- ⊙ Create a basic functional HTML website.
+- ⊙ Create a JAVA calculator.
+- ⊙ Learn CPP and Reverse Engineering.
+- ⊙ Learn WordPress and Website Hosting.
+
 ### Spotify Playing 🎧
 
 [<img src="https://media.discordapp.net/attachments/931046023307087917/937082635241537636/LogotypeTurqouise.png" alt="IMPERIUM Playlist"/>](https://open.spotify.com/playlist/449UBn31B1RxTwoh8fyMe9?si=e943cf149d6c4847)
