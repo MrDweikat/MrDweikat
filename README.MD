@@ -2,7 +2,7 @@
 
 [![DiscordServer](https://media.discordapp.net/attachments/931046023307087917/937080977753264218/LogotypeLightblue.png)](https://discord.gg/zP7eeYxRHY)
 
-## I'm a Student, Developer, and Gamer!!
+## ▁▂▃▄ I'm a Student, Developer, and Gamer!! ▄▃▂▁
 
 - ✅ I am a computer science major, and this is my second year!
 - ✔️ I’m currently learning everything 🤣
@@ -12,8 +12,9 @@
 
 <br />
 
-### Future Plans 
-
+## Future Plans 📅
+- ⊙ (Circle Not Full) == Plan not complete
+- ⦿ (Circle Full) == Plan Complete
 
 ### Spotify Playing 🎧
 
