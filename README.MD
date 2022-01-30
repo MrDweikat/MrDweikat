@@ -22,6 +22,8 @@
 
 [<img align="left" alt="Public Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/icu_adam/)
 
+<br />
+
 ### Language Experience and Skills:
 
 [<img align="left" alt="Java" width="26px" src="https://media.discordapp.net/attachments/931046023307087917/937085483031339148/unnamed.png" />](#)
