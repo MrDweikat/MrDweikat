@@ -15,7 +15,7 @@
 ## Future Plans 📅
 - ⊙ (Circle Not Full) == Plan not complete
 - ⦿ (Circle Full) == Plan Complete
-<br />
+<br /><br />
 - ⦿ Setup this README.MD file to make a professional GITHUB account.
 - ⊙ Create a basic functional HTML website.
 - ⊙ Create a JAVA calculator.
